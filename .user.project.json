@@ -1,6 +1,33 @@
 {
   "run": [
     {
+      "filePath": "/ZUI5_Layout/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": 3961617,
+        "runnerId": "webapprunner",
+        "displayName": "New Web Application"
+      }
+    },
+    {
       "filePath": "/ZUI5_Localization/index.html",
       "previewMode": 0,
       "dataMode": 1,
